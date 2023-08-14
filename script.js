@@ -84,7 +84,11 @@ if(lancheDoDia != "pão com ovo"){
 
 // !== ESTRITAMENTE DESIGUAL, VAI VERIFICAR SE O VALOR E TIPO SÃO DIFERENTES
 
+let nome = "3"
 
+if(nome !== 6){
+    console.log("o valor e o tipo são diferentes :D ")
+}
 
 
 
